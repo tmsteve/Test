@@ -1,4 +1,4 @@
-# <Title>
+# Title <Title>
 ### Module <X> - <Subject>
 ### Course Project Readme file
 
